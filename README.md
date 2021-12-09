@@ -23,4 +23,36 @@ For model with one predictor,
  
 For This project I have to predict price of car based on the given featres like--
                                                                           
-                                                                               ---1-
+1-Price--> Price of car(target variable)
+
+2-Levy--> levy of car
+
+3-Manufacturer--> manufacturer of car
+
+4-Model--> Model name of car
+
+5-Prod. year--> production year of car
+
+6-Category--> category of car
+
+7-Leather interior--> type of leather 
+
+8-Fuel type-->  types of fuel (petrol, deasal, cng)
+
+9=Engine volume-->  volume of engine of car
+
+10-Mileage--> milage of car
+
+11-Cylinders--> cylinders in car
+
+12-Gear box type-->  gear box type of car
+
+13-Drive wheels-->  types of driving wheels in car
+
+14-Doors--> no. of doors in car
+
+15-Wheel--> no. of wheels in car
+
+16-Color--> color of car 
+
+17-Airbags--> no of airbags of car
