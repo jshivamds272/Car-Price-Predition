@@ -20,6 +20,9 @@ For model with one predictor,
 
 ![lr2](https://user-images.githubusercontent.com/81983943/145457603-a566a7fd-7663-4ed1-8c4e-9ff4cc9c493a.png)
 ![lr3](https://user-images.githubusercontent.com/81983943/145457617-bb571da9-c0ee-433c-a659-dac3c8b63a89.png)
+
+![linear regression](https://user-images.githubusercontent.com/81983943/145459761-d832e7a9-6ab8-4f50-bfa6-27017f2a275a.png)
+
  
 For This project I have to predict price of car based on the given featres like--
                                                                           
